@@ -1,0 +1,9 @@
+JOHN 	START	0
+	USING	* , 15
+	L	1 , SIX
+	A	1 , SEVEN
+	S	1 , TEMP
+SIX 	DC	F'6' 
+SEVEN 	DC	F'7' 
+TEMP 	DS	1F
+	END
